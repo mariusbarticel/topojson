@@ -1,9 +1,9 @@
 {
   "agenda": [
-    { "id": 1, "nume": "Un prieten", "telefon": 30931212312121 },
-    { "id": 2, "nume": "O ruda", "telefon": 20732112222 },
-    { "id": 3, "nume": "Cineva", "telefon": 20322112933343 },
-    { "id": 4, "nume": "Altcineva", "telefon": 20238288812 },
-    { "id": 5, "nume": "Nu raspunde", "telefon": 2321121412432 }
+    { "id": 1, "name": "Un prieten", "phone": 30931212312121 },
+    { "id": 2, "name": "O ruda", "phone": 20732112222 },
+    { "id": 3, "name": "Cineva", "phone": 20322112933343 },
+    { "id": 4, "name": "Altcineva", "phone": 20238288812 },
+    { "id": 5, "name": "Nu raspunde", "phone": 2321121412432 }
   ]
 }
